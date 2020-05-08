@@ -1,5 +1,6 @@
 {
   "name": "ordinaryspoon.github.io",
+  "homepage": "https://ordinaryspoon.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
